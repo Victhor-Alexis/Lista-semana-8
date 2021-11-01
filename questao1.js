@@ -18,7 +18,7 @@ const generateUser = (nome, idade, email) => ({
 
 let arr = [1,2,3,4,5,6,7,8,9,10] 
 
-//let soPar = arr.filter(num => num % 2 == 0)
+//let soPar = arr.filter(num => num % 2 == 0) Só assim podia?
 
 const soPar = arr => {
     let arrPar = []
